@@ -3,7 +3,7 @@
 
 用同音字替换敏感词
 
-[Live demo](https://josherich.github.io/censor-obfus/)
+[Live demo](https://eddieyang211.github.io/censor_obfus.github.io/)
 
 [Chrome Extension](https://chrome.google.com/webstore/detail/censor-obfus/nlbfgoikjbcngfplmdbphihddnidcplk?hl=en&gl=US&authuser=0)
 
